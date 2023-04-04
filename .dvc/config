@@ -1,0 +1,4 @@
+[core]
+    remote = s3install
+['remote "s3install"']
+    url = s3://dvc-project-e/
